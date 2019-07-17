@@ -1,3 +1,7 @@
 ---
 # defaults file for ruby
+<<<<<<< HEAD
 ruby_version: "2.6.3p62"
+=======
+ruby_version: "2.6.3"
+>>>>>>> e77ca94cda655d943f254e0593f36bf8a9c898c8
