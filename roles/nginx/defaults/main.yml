@@ -3,7 +3,7 @@
 nginx_user: 
   username: "nginx"
   uid: 2000
-  home: "/var/lib/nginx"
+  home: "/usr/share/nginx"
   shell: "/sbin/nologin"
   groupname: "nginx"
   gid: 2000
