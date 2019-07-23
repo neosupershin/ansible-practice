@@ -1,9 +1,9 @@
 [lbservers]
-lb.devops-book.local
+192.168.33.20
 
 [webservers]
-web1.devops-book.local
-web2.devops-book.local
+192.168.33.30
+192.168.33.31
 
 [ciservers]
 localhost
